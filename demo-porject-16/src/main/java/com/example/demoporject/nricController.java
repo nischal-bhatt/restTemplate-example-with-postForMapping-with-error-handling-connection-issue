@@ -27,7 +27,7 @@ public class nricController {
 		ab.setC(a.getX());
 		}else
 		{
-			ab.setError("cannot connect la bodoh");
+			ab.setError("cannot connect la dude");
 		}
 		return ab;
 	}
